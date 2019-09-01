@@ -1,2 +1,2 @@
 # Challenge
-Series of challenges
+Series of javascript challenges
